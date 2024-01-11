@@ -1,0 +1,35 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+.body2{
+    background-color: #eeeeff;
+}
+
+.section2{
+    display: flex;
+    justify-content: center;
+}
+
+.ajustes{
+    border: 1px solid rgb(0, 11, 161);
+    margin-right: 40%;
+    margin-left: 40%;
+}
+
+.section3{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    border: 1px solid rgb(0, 11, 161);
+    margin-right: 40%;
+    margin-left: 40%;
+}
+
+img{
+    display: flex;
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+}
